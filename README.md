@@ -7,9 +7,7 @@ MyDemo说明：
 通过在edittext输入内容，实现动态匹配更新listview的数据
 
 高亮显示匹配项，根据关键字动态更新搜索结果列表
-
-原型参照：https://download.csdn.net/download/dfhgx/4274119
-
+参照原型：https://download.csdn.net/download/dfhgx/4274119
 
 效果如下：
 
