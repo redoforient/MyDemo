@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_vertical"
         android:gravity="center_vertical"
-        android:hint="请输入"
+        android:hint="请输入客户名称"
         android:singleLine="true"
         android:textColor="#333333"
         android:textColorHint="#999999"
